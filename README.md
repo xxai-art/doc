@@ -32,19 +32,7 @@ Ein Teil des Website-Codes ist Open Source und kann gerne zur Optimierung der Ü
 
 ## [日本语](https://github.com/xxai-doc/ja/blob/main/README.md#readme)
 
-次の 3 つのプロジェクトをベースに構築
-
-* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
-
-  接尾辞は`.mdt`です。 `<+ ./coffee_plus/import.js>`に似た構文を使用して外部ファイルを参照し、接尾辞`.md`を使用してマークダウンを生成できます。
-
-* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
-
-  マークダウン翻訳では、コードやリンクは翻訳されず、翻訳された文がキャッシュされます。翻訳が変更されても元のテキストが変更されていない場合、再実行しても翻訳の変更は上書きされません。
-
-* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
-
-  `yaml`で生成された Web サイトを翻訳するための言語ファイル。
+ウェブサイトのコードの一部はオープンソースです。翻訳の最適化にご協力ください。
 
 [→ 詳細を読んで学ぶにはここをクリックしてください](https://github.com/xxai-doc/ja/blob/main/README.md#readme)
 
@@ -128,7 +116,7 @@ Osa veebisaidi koodist on avatud lähtekoodiga, teretulnud aitama tõlget optime
 
 ## [ଓଡିଆ](https://github.com/xxai-doc/or/blob/main/README.md#readme)
 
-ୱେବସାଇଟ୍ କୋଡର ଏକ ଅଂଶ ମୁକ୍ତ ଉତ୍ସ, ଅନୁବାଦକୁ ଅପ୍ଟିମାଇଜ୍ କରିବାରେ ସାହାଯ୍ୟ କରିବାକୁ ସ୍ୱାଗତ |
+ୱେବସାଇଟ୍ କୋଡ୍ ର ଏକ ଅଂଶ ମୁକ୍ତ ଉତ୍ସ, ଅନୁବାଦକୁ ଅପ୍ଟିମାଇଜ୍ କରିବାରେ ସାହାଯ୍ୟ କରିବାକୁ ସ୍ୱାଗତ |
 
 [→ ଅଧିକ ପ read ିବା ଏବଂ ଅଧିକ ଜାଣିବା ପାଇଁ ଏଠାରେ କ୍ଲିକ୍ କରନ୍ତୁ |](https://github.com/xxai-doc/or/blob/main/README.md#readme)
 
@@ -530,7 +518,19 @@ Ingxenye yekhodi yewebhusayithi ingumthombo ovulekile, wamukelekile ukusiza ukut
 
 ## [Norsk](https://github.com/xxai-doc/no/blob/main/README.md#readme)
 
-En del av nettsidekoden er åpen kildekode, velkommen til å hjelpe med å optimalisere oversettelsen.
+Bygg videre på følgende 3 prosjekter
+
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+
+  Suffikset er `.mdt` , du kan bruke syntaksen som ligner `<+ ./coffee_plus/import.js>` for å referere til eksterne filer, og generere markdown med suffikset `.md` .
+
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+
+  Markdown-oversettelse vil ikke oversette koder og lenker, og vil cache oversatte setninger. Hvis oversettelsen er endret, men originalteksten ikke endres, vil ikke endringen av oversettelsen overskrives hvis du utfører den på nytt.
+
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+
+  Språkfiler for å oversette `yaml` genererte nettsteder.
 
 [→ Klikk her for å lese og lære mer](https://github.com/xxai-doc/no/blob/main/README.md#readme)
 
